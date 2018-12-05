@@ -62,3 +62,7 @@ body {
   right: 10px;
   top: -10px;
 }
+
+.robot:hover .robot-brain {
+  top: 10px;
+}
